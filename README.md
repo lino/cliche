@@ -1,0 +1,4 @@
+cliche
+======
+
+golang Report generator
